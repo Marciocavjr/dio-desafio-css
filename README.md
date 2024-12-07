@@ -18,7 +18,3 @@ O site sem modificações no HTML, simplificado e sem a responsividade está na 
 
 
 ![Imagem final de todo o site](./assets/images/final-screenshot.png "Imagem completa do site")
-
-## 📌 Mais informações
-
-E
