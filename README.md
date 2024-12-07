@@ -2,7 +2,7 @@
 
 ## 📃 Descrição
 
-Desafio da *trilha de CSS* do bootcamp **NTT DATA Diversidade em Tech** da **Digital Innovation One (DIO)**.
+Desafio da *trilha de CSS* do bootcamp **Ri Happy - Front-end do Zero** da **Digital Innovation One (DIO)**.
 
 Neste desafio, foi proposto desenvolver a parte do CSS de uma *Landing Page* sobre a *trilha de CSS da Dio*. Foi utilizado apenas o que foi aprendido durante a trilha de CSS, nos cursos:
 
